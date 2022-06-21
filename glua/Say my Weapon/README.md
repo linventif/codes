@@ -4,7 +4,7 @@
 
 🇫🇷 | Ce script permet d'afficher un message dans le chat quand un joueur prend une arme lister.
 
-
+&nbsp;
 
 # Installation
 
@@ -12,7 +12,7 @@
 
 🇫🇷 | Déplacez simplement le fichier dans le dossier garrysmod/lua/autorun/client de votre serveur.
 
-
+&nbsp;
 
 # Configuration
 
@@ -20,7 +20,7 @@
 
 🇫🇷 | Ajouter le nom de l'arme dans le tableau weapon_trigger
 
-
+&nbsp;
 
 # Contact Me :
 
@@ -28,7 +28,7 @@ Discord -> Linventif#0253
 
 Discord Server -> https://dsc.gg/linventif
 
-
+&nbsp;
 
 # Licence
 

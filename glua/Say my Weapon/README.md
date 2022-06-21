@@ -1,23 +1,24 @@
 # Inforamtions
-🇫🇷
+
+🇺🇸 | This script displays a message in the chat when a player picks up a listed weapon.
+
+🇫🇷 | Ce script permet d'afficher un message dans le chat quand un joueur prend une arme lister.
+
 
 
 # Installation
 
-Just move the folder into your webserver.
+🇺🇸 | Move the file into the folder garrysmod/lua/autorun/client of your server.
 
-Ember : /resources/lang
-
-Ember Forum : /modules/forums/resources/lang
-
-Ember Discord : /modules/discord/resources/lang
+🇫🇷 | Déplacez simplement le fichier dans le dossier garrysmod/lua/autorun/client de votre serveur.
 
 
 
-# Licence
+# Configuration
 
-LICENCE -> CC BY-NC-SA 3.0
-https://creativecommons.org/licenses/by-nc-sa/3.0/
+🇺🇸 | Add weapon name in the table weapon_trigger
+
+🇫🇷 | Ajouter le nom de l'arme dans le tableau weapon_trigger
 
 
 
@@ -27,4 +28,9 @@ Discord -> Linventif#0253
 
 Discord Server -> https://dsc.gg/linventif
 
-Steam Profil -> https://steamcommunity.com/id/linventif/
+
+
+# Licence
+
+LICENCE -> CC BY-NC-SA 3.0
+https://creativecommons.org/licenses/by-nc-sa/3.0/

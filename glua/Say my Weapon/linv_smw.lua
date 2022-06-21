@@ -1,7 +1,7 @@
 weapon_trigger = {
     "weapon_357",
     "weapon_crowbar",
-    "gmod_tool"
+    "add_weapon_name" 
 }
 
 hook.Add( "PlayerSwitchWeapon", "WeaponSwitchExample", function( ply, oldWeapon, newWeapon )

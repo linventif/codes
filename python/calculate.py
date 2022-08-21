@@ -7,4 +7,4 @@ while True :
         somme = (int(deuxieme_nombre) + int(premier_nombre))
         print(f"Le résultat de l'addition du nombre {premier_nombre} avec le nombre {deuxieme_nombre} est égal à {somme}.")
     else :
-        print("Un des un nombres entrée n'est pas valide !")
+        print("Un des un nombres entrée n'est pas valide !") 
